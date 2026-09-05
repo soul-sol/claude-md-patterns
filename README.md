@@ -9,6 +9,14 @@ A rule that binds has four parts:
 3. **Stop condition** — what to do when the check fails, named explicitly (`ABORT: …`), not implied
 4. **Evidence** — what must be left behind so the rule's application is visible afterward
 
+
+> These came out of running Claude Code and Codex workers in parallel every day.
+> The incidents behind them — what the agent claimed, what actually happened, and the
+> gate that catches it next time — are at
+> [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
+> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9);
+> what is here stays free and MIT either way.
+
 ## 5 free patterns
 
 Each file gives the misbehavior it fixes, the exact text to paste, why it binds, variations (monorepo/solo/team), and the anti-pattern — the plausible version that fails.
