@@ -60,3 +60,21 @@ Adds: global-vs-project split, nested overrides, context budget, brief contract,
 ## License
 
 MIT for the 5 patterns in this repository.
+
+<!-- xlink:start -->
+## Related free tools
+
+- [XLSX Inspector](https://xlsx.lifestep.io) — check workbooks for macros, external links and hidden sheets
+- [DNS and SPF Check](https://dnscheck.lifestep.io) — records, SPF, DMARC and TLS expiry
+- [Email Validator](https://emailcheck.lifestep.io) — syntax, MX, disposable and role addresses
+- [QR Code Generator](https://qrcode.lifestep.io) — free PNG and SVG API, no signup
+- [agent-watch](https://github.com/soul-sol/agent-watch)
+- [ai-code-review-prompts](https://github.com/soul-sol/ai-code-review-prompts)
+- [claude-code-orchestration-ko](https://github.com/soul-sol/claude-code-orchestration-ko)
+- [xlsx-inspector-api](https://github.com/soul-sol/xlsx-inspector-api)
+- [domain-info-api](https://github.com/soul-sol/domain-info-api)
+- [email-validator-api](https://github.com/soul-sol/email-validator-api)
+- [qr-code-api](https://github.com/soul-sol/qr-code-api)
+
+The paid guide collection is available at [lifestep1.gumroad.com](https://lifestep1.gumroad.com).
+<!-- xlink:end -->
