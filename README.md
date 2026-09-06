@@ -17,6 +17,18 @@ A rule that binds has four parts:
 > The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9);
 > what is here stays free and MIT either way.
 
+## Audit your own file first
+
+Before adopting any pattern here, see which of your existing rules an agent cannot act on:
+
+**[claudemd.lifestep.io](https://claudemd.lifestep.io)** — paste a `CLAUDE.md` or `AGENTS.md` and it flags
+truncation risk, headings with no rule under them, instructions with no verification command, prohibitions
+with no stated alternative, and rules that read like controls but enforce nothing.
+
+It is a static checker, not a model: no upload, no API call, no LLM. The page runs the checks in your browser
+and cites the line each finding came from. Checks it cannot evaluate report *not evaluated* rather than
+*pass* — absence of a shape to inspect is not evidence that the file is fine.
+
 ## 5 free patterns
 
 Each file gives the misbehavior it fixes, the exact text to paste, why it binds, variations (monorepo/solo/team), and the anti-pattern — the plausible version that fails.
