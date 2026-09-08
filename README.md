@@ -1,5 +1,7 @@
 # CLAUDE.md patterns that actually bind
 
+Install: `npx skills add soul-sol/claude-md-patterns`
+
 Your `CLAUDE.md` probably says *"write clean code, be careful with destructive operations, ask if unsure."* The agent reads it, agrees with it, and then does whatever the last 200 lines of context suggested. The file isn't wrong — **it just isn't a rule.** Nothing in it can be checked, so nothing in it binds.
 
 A rule that binds has four parts:
