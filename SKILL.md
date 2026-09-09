@@ -208,8 +208,9 @@ Choose only relevant guidance from these twelve existing patterns:
   backup, and obtain operation-specific approval for user-owned or external data.
 - **Reassign, not retry:** record attempts and changed variables; never repeat
   identical failures; reassign after the same failure twice or report a blocker.
-- **Per-tool completion markers:** use each tool's normal completion signal,
-  read result bodies, and distinguish missing evidence from failure.
+- **Completion is the exit code plus the result body:** decide from the exit code
+  and the result body; a completion marker differs per tool, so treat it as a
+  diagnostic and never read its absence as a stall.
 - **Probe before believing 'can't':** ground inability claims in one cheap probe
   and classify the observed failure layer. During this audit, only suggest the
   wording; do not perform side-effecting probes.

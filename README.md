@@ -61,7 +61,7 @@ Vague answer to (1) → the rule is too long or too far down the file. (2) proce
 
 ## The full library (30 patterns)
 
-Adds: global-vs-project split, nested overrides, context budget, brief contract, small-diff threshold, file ownership, worktree mandate, per-tool completion markers, log-tail check, review gate, pipefail standard, deploy success marker, identity-actions-human-only, secret existence checks, precise process kills, warning-is-not-failure, stall doctrine, polling-loop trap, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning — plus a 43-page PDF with the adoption guide and probe test, and a Korean guide.
+Adds: global-vs-project split, nested overrides, context budget, brief contract, small-diff threshold, file ownership, worktree mandate, exit-code completion, log-tail check, review gate, pipefail standard, deploy success marker, identity-actions-human-only, secret existence checks, precise process kills, warning-is-not-failure, stall doctrine, polling-loop trap, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning — plus a 43-page PDF with the adoption guide and probe test, and a Korean guide.
 
 **→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library)**
 
