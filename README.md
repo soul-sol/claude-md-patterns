@@ -16,7 +16,9 @@ A rule that binds has four parts:
 > The incidents behind them — what the agent claimed, what actually happened, and the
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
-> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9);
+> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9),
+> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) if you also want
+> the task briefs, the 25 review prompts and the deploy gate that go around these rules;
 > what is here stays free and MIT either way.
 
 ## Audit your own file first
