@@ -65,9 +65,11 @@ Adds: global-vs-project split, nested overrides, context budget, brief contract,
 
 **→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library)**
 
-Or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29), which contains
-this library in full plus the 25 adversarial review prompts, the *Solo, Like a Team* book in English and
-Korean, and the orchestration templates in both languages (8 files each). Bought separately: $54.
+Rules decide what an agent may do. They don't tell you what to hand it, or how to judge the
+diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit)
+($29) covers the whole loop — this library in full, plus task-brief and change-scope templates, 25
+adversarial review prompts to run against a worker's diff before it lands, the deploy/rollback gate,
+and *Solo, Like a Team* in English and Korean. Bought separately: $54.
 
 ## Related free tools
 
