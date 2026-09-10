@@ -69,7 +69,7 @@ Rules decide what an agent may do. They don't tell you what to hand it, or how t
 diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit)
 ($29) covers the whole loop — this library in full, plus task-brief and change-scope templates, 25
 adversarial review prompts to run against a worker's diff before it lands, the deploy/rollback gate,
-and *Solo, Like a Team* in English and Korean. Bought separately: $54.
+and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $49.
 
 ## Related free tools
 
