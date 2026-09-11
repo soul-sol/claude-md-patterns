@@ -17,7 +17,7 @@ A rule that binds has four parts:
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
 > The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9),
-> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit) ($29) if you also want
+> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns) ($29) if you also want
 > the task briefs, the 25 review prompts and the deploy gate that go around these rules;
 > what is here stays free and MIT either way.
 
@@ -68,7 +68,7 @@ Adds: global-vs-project split, nested overrides, context budget, brief contract,
 **→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library)**
 
 Rules decide what an agent may do. They don't tell you what to hand it, or how to judge the
-diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit)
+diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns)
 ($29) covers the whole loop — this library in full, plus task-brief and change-scope templates, 25
 adversarial review prompts to run against a worker's diff before it lands, the deploy/rollback gate,
 and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $49.
