@@ -16,7 +16,7 @@ A rule that binds has four parts:
 > The incidents behind them — what the agent claimed, what actually happened, and the
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
-> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library) ($9),
+> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib) ($9),
 > or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns) ($29) if you also want
 > the task briefs, the 25 review prompts and the deploy gate that go around these rules;
 > what is here stays free and MIT either way.
@@ -65,7 +65,7 @@ Vague answer to (1) → the rule is too long or too far down the file. (2) proce
 
 Adds: global-vs-project split, nested overrides, context budget, brief contract, small-diff threshold, file ownership, worktree mandate, exit-code completion, log-tail check, review gate, pipefail standard, deploy success marker, identity-actions-human-only, secret existence checks, precise process kills, warning-is-not-failure, stall doctrine, polling-loop trap, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning — plus a 43-page PDF with the adoption guide and probe test, and a Korean guide.
 
-**→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library)**
+**→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib)**
 
 Rules decide what an agent may do. They don't tell you what to hand it, or how to judge the
 diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns)
