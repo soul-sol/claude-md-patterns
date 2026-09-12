@@ -72,11 +72,11 @@ Same format as the five above — each pattern names the failure it stops:
 | Warning is not failure | pulling a working worker out of rotation over an informational log line |
 | Stall doctrine | calling a finished job stalled because it didn't print the marker you expected |
 | Polling-loop trap | watch loops that die on a timeout and take the run's only observer with them |
-| Exit-code completion | "it's done" accepted without the command and code that say so |
+| Per-worker signals | a finished job marked stalled because it lacked another tool's completion marker |
 | Context budget | a correct rule that loses to the last 200 lines of context |
 | Precise process kills | a cleanup that kills more than the thing you meant |
 
-Plus 22 more — global/project split, nested overrides, brief contract, small-diff threshold, file ownership, worktree mandate, log-tail check, review gate, identity-actions-human-only, secret existence checks, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning and others — with a 43-page PDF adoption guide, the probe test, and a Korean guide.
+Plus 17 more beyond the free five — global/project split, subdirectory overrides, worker exception clause, brief contract, small-diff rule, file ownership map, worktree mandate, log-tail check, review gate before commit, identity actions human-only, secret existence checks, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, latest-model pin — and the five above in the same format, with a 43-page PDF adoption guide, the probe test, and a Korean guide.
 
 **→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib)**
 
