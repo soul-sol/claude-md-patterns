@@ -63,7 +63,20 @@ Vague answer to (1) → the rule is too long or too far down the file. (2) proce
 
 ## The full library (30 patterns)
 
-Adds: global-vs-project split, nested overrides, context budget, brief contract, small-diff threshold, file ownership, worktree mandate, exit-code completion, log-tail check, review gate, pipefail standard, deploy success marker, identity-actions-human-only, secret existence checks, precise process kills, warning-is-not-failure, stall doctrine, polling-loop trap, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning — plus a 43-page PDF with the adoption guide and probe test, and a Korean guide.
+Same format as the five above — each pattern names the failure it stops:
+
+| Pattern | Stops |
+|---|---|
+| Pipefail standard | a failing test reported as a pass, because `$?` came from the pipe's last command |
+| Deploy success marker | reading a rollback's "health checks passed" as a successful deploy |
+| Warning is not failure | pulling a working worker out of rotation over an informational log line |
+| Stall doctrine | calling a finished job stalled because it didn't print the marker you expected |
+| Polling-loop trap | watch loops that die on a timeout and take the run's only observer with them |
+| Exit-code completion | "it's done" accepted without the command and code that say so |
+| Context budget | a correct rule that loses to the last 200 lines of context |
+| Precise process kills | a cleanup that kills more than the thing you meant |
+
+Plus 22 more — global/project split, nested overrides, brief contract, small-diff threshold, file ownership, worktree mandate, log-tail check, review gate, identity-actions-human-only, secret existence checks, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, model pinning and others — with a 43-page PDF adoption guide, the probe test, and a Korean guide.
 
 **→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib)**
 
