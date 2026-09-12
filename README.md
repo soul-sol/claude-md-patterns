@@ -114,5 +114,5 @@ MIT for the 5 patterns in this repository.
 - [Agent Ops for VS Code](https://github.com/soul-sol/vscode-agent-ops) - review prompts and agent rules in the Command Palette (VSIX install)
 - [Go Exec Format Doctor Action](https://github.com/soul-sol/go-exec-format-doctor) - CI gate for binary architecture mismatches
 
-The paid guide collection is available at [lifestep1.gumroad.com](https://lifestep1.gumroad.com).
+The paid guide collection is available at [lifestep1.gumroad.com](https://lifestep1.gumroad.com?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns).
 <!-- xlink:end -->
