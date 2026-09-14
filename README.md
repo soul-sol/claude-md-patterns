@@ -16,8 +16,8 @@ A rule that binds has four parts:
 > The incidents behind them — what the agent claimed, what actually happened, and the
 > gate that catches it next time — are at
 > [status.lifestep.io/incidents](https://status.lifestep.io/incidents/).
-> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib) ($9),
-> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns) ($29) if you also want
+> The full set is [The CLAUDE.md Pattern Library](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib) ($39),
+> or the [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns) ($89) if you also want
 > the task briefs, the 25 review prompts and the deploy gate that go around these rules;
 > what is here stays free and MIT either way.
 
@@ -78,13 +78,13 @@ Same format as the five above — each pattern names the failure it stops:
 
 Plus 17 more beyond the free five — global/project split, subdirectory overrides, worker exception clause, brief contract, small-diff rule, file ownership map, worktree mandate, log-tail check, review gate before commit, identity actions human-only, secret existence checks, memory file discipline, session parking, progress report format, model tier policy, bulk-read delegation, latest-model pin — and the five above in the same format, with a 43-page PDF adoption guide, the probe test, and a Korean guide.
 
-**→ [$9 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib)**
+**→ [$39 on Gumroad](https://lifestep1.gumroad.com/l/claude-md-pattern-library?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns-lib)**
 
 Rules decide what an agent may do. They don't tell you what to hand it, or how to judge the
 diff that comes back. The [Complete Agent Ops Kit](https://lifestep1.gumroad.com/l/complete-agent-ops-kit?utm_source=github&utm_medium=readme&utm_campaign=claude-md-patterns)
-($29) covers the whole loop — this library in full, plus task-brief and change-scope templates, 25
+($89) covers the whole loop — this library in full, plus task-brief and change-scope templates, 25
 adversarial review prompts to run against a worker's diff before it lands, the deploy/rollback gate,
-and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $49.
+and *Solo, Like a Team* in English and Korean. The same files bought as separate products: $176.
 
 ## Related free tools
 
